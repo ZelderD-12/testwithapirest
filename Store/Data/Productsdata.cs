@@ -34,5 +34,22 @@ namespace Store.Data
             }
             return lista;
         }
+
+        public async Task ProductsInsert(Modelstoredb parameters)
+        {
+            using(var sql = new SqlConnection(conn.SQLchain()))
+            {
+                using (var cmd = new SqlCommand("insertproducts", sql))
+                {
+                    cmd.CommandType = System.Data.CommandType.StoredProcedure;
+                    cmd.Parameters.AddWithValue("id", parameters.id);
+                    cmd.Parameters.AddWithValue("description", parameters.description);
+                    cmd.Parameters.AddWithValue("price", parameters.price);
+
+                    await sql.OpenAsync();
+                    await cmd.ExecuteNonQueryAsync();
+                }
+            }
+        }
     }
 }

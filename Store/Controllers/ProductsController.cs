@@ -7,7 +7,7 @@ using System.Data.SqlClient;
 namespace Store.Controllers
 {
     [ApiController]
-    [Route("api/products")]
+    [Route("api/Products")]
     public class ProductsController
     {
         [HttpGet]
@@ -16,6 +16,13 @@ namespace Store.Controllers
             var function = new Productsdata();
             var lista = await function.showproducts();
             return lista;
+        }
+
+        [HttpPost]
+        public async Task Insertar([FromBody] Modelstoredb parameters)
+        {
+            var func = new Productsdata();
+            await func.ProductsInsert(parameters);
         }
     }
 }
