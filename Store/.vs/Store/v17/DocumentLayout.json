@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\Diego\\Desktop\\pruebas de git\\prueba con api\\Store\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{46EE4010-0224-401C-AE5D-D68AF61195E3}|Store.csproj|c:\\users\\diego\\desktop\\pruebas de git\\prueba con api\\store\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46EE4010-0224-401C-AE5D-D68AF61195E3}|Store.csproj|solutionrelative:controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46EE4010-0224-401C-AE5D-D68AF61195E3}|Store.csproj|c:\\users\\diego\\desktop\\pruebas de git\\prueba con api\\store\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{46EE4010-0224-401C-AE5D-D68AF61195E3}|Store.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{46EE4010-0224-401C-AE5D-D68AF61195E3}|Store.csproj|c:\\users\\diego\\desktop\\pruebas de git\\prueba con api\\store\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{46EE4010-0224-401C-AE5D-D68AF61195E3}|Store.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -19,6 +27,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\Diego\\Desktop\\pruebas de git\\prueba con api\\Store\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\Diego\\Desktop\\pruebas de git\\prueba con api\\Store\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Controllers\\ProductsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T06:01:09.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Diego\\Desktop\\pruebas de git\\prueba con api\\Store\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Diego\\Desktop\\pruebas de git\\prueba con api\\Store\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-29T05:54:33.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Diego\\Desktop\\pruebas de git\\prueba con api\\Store\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
