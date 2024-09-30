@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\Diego\\Desktop\\pruebas de git\\prueba con api\\Store\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{46EE4010-0224-401C-AE5D-D68AF61195E3}|Store.csproj|c:\\users\\diego\\desktop\\pruebas de git\\prueba con api\\store\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{46EE4010-0224-401C-AE5D-D68AF61195E3}|Store.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46EE4010-0224-401C-AE5D-D68AF61195E3}|Store.csproj|c:\\users\\diego\\desktop\\pruebas de git\\prueba con api\\store\\connection\\bdconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46EE4010-0224-401C-AE5D-D68AF61195E3}|Store.csproj|solutionrelative:connection\\bdconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{46EE4010-0224-401C-AE5D-D68AF61195E3}|Store.csproj|c:\\users\\diego\\desktop\\pruebas de git\\prueba con api\\store\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{46EE4010-0224-401C-AE5D-D68AF61195E3}|Store.csproj|solutionrelative:controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -13,10 +21,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{46EE4010-0224-401C-AE5D-D68AF61195E3}|Store.csproj|c:\\users\\diego\\desktop\\pruebas de git\\prueba con api\\store\\data\\productsdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{46EE4010-0224-401C-AE5D-D68AF61195E3}|Store.csproj|solutionrelative:data\\productsdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{46EE4010-0224-401C-AE5D-D68AF61195E3}|Store.csproj|c:\\users\\diego\\desktop\\pruebas de git\\prueba con api\\store\\connection\\bdconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{46EE4010-0224-401C-AE5D-D68AF61195E3}|Store.csproj|solutionrelative:connection\\bdconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{46EE4010-0224-401C-AE5D-D68AF61195E3}|Store.csproj|c:\\users\\diego\\desktop\\pruebas de git\\prueba con api\\store\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -30,11 +34,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Diego\\Desktop\\pruebas de git\\prueba con api\\Store\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Diego\\Desktop\\pruebas de git\\prueba con api\\Store\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-30T17:38:40.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\Diego\\Desktop\\pruebas de git\\prueba con api\\Store\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Properties\\launchSettings.json",
@@ -46,7 +63,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "BDConnection.cs",
               "DocumentMoniker": "C:\\Users\\Diego\\Desktop\\pruebas de git\\prueba con api\\Store\\Connection\\BDConnection.cs",
               "RelativeDocumentMoniker": "Connection\\BDConnection.cs",
@@ -59,7 +76,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Productsdata.cs",
               "DocumentMoniker": "C:\\Users\\Diego\\Desktop\\pruebas de git\\prueba con api\\Store\\Data\\Productsdata.cs",
               "RelativeDocumentMoniker": "Data\\Productsdata.cs",
@@ -67,25 +84,24 @@
               "RelativeToolTip": "Data\\Productsdata.cs",
               "ViewState": "AQIAACUAAAAAAAAAAAAQwDMAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-29T15:06:16.942Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-29T15:06:16.942Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "ProductsController.cs",
               "DocumentMoniker": "C:\\Users\\Diego\\Desktop\\pruebas de git\\prueba con api\\Store\\Controllers\\ProductsController.cs",
               "RelativeDocumentMoniker": "Controllers\\ProductsController.cs",
               "ToolTip": "C:\\Users\\Diego\\Desktop\\pruebas de git\\prueba con api\\Store\\Controllers\\ProductsController.cs",
               "RelativeToolTip": "Controllers\\ProductsController.cs",
-              "ViewState": "AQIAABQAAAAAAAAAAAAIwCkAAAAdAAAA",
+              "ViewState": "AQIAAAwAAAAAAAAAAADwvykAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-29T06:01:09.217Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Modelstoredb.cs",
               "DocumentMoniker": "C:\\Users\\Diego\\Desktop\\pruebas de git\\prueba con api\\Store\\Modelo\\Modelstoredb.cs",
               "RelativeDocumentMoniker": "Modelo\\Modelstoredb.cs",
@@ -93,8 +109,7 @@
               "RelativeToolTip": "Modelo\\Modelstoredb.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-29T14:59:13.407Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-29T14:59:13.407Z"
             }
           ]
         }
