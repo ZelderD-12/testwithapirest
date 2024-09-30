@@ -7,12 +7,12 @@
       "RelativeMoniker": "D:0:0:{46EE4010-0224-401C-AE5D-D68AF61195E3}|Store.csproj|solutionrelative:controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{46EE4010-0224-401C-AE5D-D68AF61195E3}|Store.csproj|c:\\users\\diego\\desktop\\pruebas de git\\prueba con api\\store\\data\\productsdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{46EE4010-0224-401C-AE5D-D68AF61195E3}|Store.csproj|solutionrelative:data\\productsdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{46EE4010-0224-401C-AE5D-D68AF61195E3}|Store.csproj|c:\\users\\diego\\desktop\\pruebas de git\\prueba con api\\store\\modelo\\modelstoredb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{46EE4010-0224-401C-AE5D-D68AF61195E3}|Store.csproj|solutionrelative:modelo\\modelstoredb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46EE4010-0224-401C-AE5D-D68AF61195E3}|Store.csproj|c:\\users\\diego\\desktop\\pruebas de git\\prueba con api\\store\\data\\productsdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46EE4010-0224-401C-AE5D-D68AF61195E3}|Store.csproj|solutionrelative:data\\productsdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{46EE4010-0224-401C-AE5D-D68AF61195E3}|Store.csproj|c:\\users\\diego\\desktop\\pruebas de git\\prueba con api\\store\\connection\\bdconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
@@ -54,32 +54,20 @@
               "RelativeToolTip": "Connection\\BDConnection.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-29T15:11:08.59Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Productsdata.cs",
-              "DocumentMoniker": "C:\\Users\\Diego\\Desktop\\pruebas de git\\prueba con api\\Store\\Data\\Productsdata.cs",
-              "RelativeDocumentMoniker": "Data\\Productsdata.cs",
-              "ToolTip": "C:\\Users\\Diego\\Desktop\\pruebas de git\\prueba con api\\Store\\Data\\Productsdata.cs",
-              "RelativeToolTip": "Data\\Productsdata.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAAwDEAAAA1AAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-29T15:06:16.942Z",
+              "WhenOpened": "2024-09-29T15:11:08.59Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Modelstoredb.cs",
-              "DocumentMoniker": "C:\\Users\\Diego\\Desktop\\pruebas de git\\prueba con api\\Store\\Modelo\\Modelstoredb.cs",
-              "RelativeDocumentMoniker": "Modelo\\Modelstoredb.cs",
-              "ToolTip": "C:\\Users\\Diego\\Desktop\\pruebas de git\\prueba con api\\Store\\Modelo\\Modelstoredb.cs",
-              "RelativeToolTip": "Modelo\\Modelstoredb.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Title": "Productsdata.cs",
+              "DocumentMoniker": "C:\\Users\\Diego\\Desktop\\pruebas de git\\prueba con api\\Store\\Data\\Productsdata.cs",
+              "RelativeDocumentMoniker": "Data\\Productsdata.cs",
+              "ToolTip": "C:\\Users\\Diego\\Desktop\\pruebas de git\\prueba con api\\Store\\Data\\Productsdata.cs",
+              "RelativeToolTip": "Data\\Productsdata.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAQwDMAAAARAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-29T14:59:13.407Z",
+              "WhenOpened": "2024-09-29T15:06:16.942Z",
               "EditorCaption": ""
             },
             {
@@ -90,9 +78,22 @@
               "RelativeDocumentMoniker": "Controllers\\ProductsController.cs",
               "ToolTip": "C:\\Users\\Diego\\Desktop\\pruebas de git\\prueba con api\\Store\\Controllers\\ProductsController.cs",
               "RelativeToolTip": "Controllers\\ProductsController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAZAAAA",
+              "ViewState": "AQIAABQAAAAAAAAAAAAIwCkAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-29T06:01:09.217Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Modelstoredb.cs",
+              "DocumentMoniker": "C:\\Users\\Diego\\Desktop\\pruebas de git\\prueba con api\\Store\\Modelo\\Modelstoredb.cs",
+              "RelativeDocumentMoniker": "Modelo\\Modelstoredb.cs",
+              "ToolTip": "C:\\Users\\Diego\\Desktop\\pruebas de git\\prueba con api\\Store\\Modelo\\Modelstoredb.cs",
+              "RelativeToolTip": "Modelo\\Modelstoredb.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T14:59:13.407Z",
               "EditorCaption": ""
             }
           ]

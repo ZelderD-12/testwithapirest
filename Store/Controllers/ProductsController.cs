@@ -24,5 +24,23 @@ namespace Store.Controllers
             var func = new Productsdata();
             await func.ProductsInsert(parameters);
         }
+
+
+        [HttpPatch("{id}")]
+        public async Task Actualizar(int id, [FromBody] Modelstoredb parameters)
+        {
+            var func = new Productsdata();
+            parameters.id = id;
+            await func.ProductsUpdate(parameters);
+        }
+
+        [HttpDelete("{id}")]
+
+        public async Task Eliminar(int id, [FromBody] Modelstoredb parameters)
+        {
+            var func = new Productsdata();
+            parameters.id=id;
+            await func.ProductsDelete(parameters);
+        }
     }
 }

@@ -6,7 +6,10 @@ as
 select * from Products
 where id=@id
 
+select * from Products
 
+insert into Products values (1, 'Cocacola', 7.50)
+insert into Products values (2, 'Pepsi', 5.50)
 
 create proc showeverything
 as
